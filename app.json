@@ -1,5 +1,5 @@
 {
-    "name": "ASTRO MD",
+    "name": "ASTRO-MD 🦹🏻‍♂️",
     "description": "whatsapp md bot build with nodejs.By vihanga-yt",
     "repository": "https://github.com/vihangayt0/AstroBot-MD",
     "logo": "https://telegra.ph/file/b8e8a0b9a9e4d8ab0fed0.jpg",
@@ -68,7 +68,7 @@
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
-  "value" : "*Hello Im Alive Now*"
+  "value" : "*Hello Im Alive Now 🦹🏻‍♂️*"
     },
         
 "CALL_BLOCK" :{
@@ -98,7 +98,7 @@
 "OWNER_REACT_EMOJI" :{
     "description" : "TYPE ANY EMOJI TO OWNER REACT",
     "required" : true,
-  "value" : "🧑"
+  "value" : "🦹🏻‍♂️"
     },
       
 "REACT_NUMBER" :{
@@ -122,7 +122,7 @@
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "ＡＳＴＲＯ-ＭＤ"
+  "value" : "ＡＳＴＲＯ-ＭＤ 🦹🏻‍♂️"
     },
       
 "OWNER_NAME" :{
@@ -152,7 +152,7 @@
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ᴀꜱᴛʀᴏ-ᴍᴅ*"
+  "value" : "*ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ᴀꜱᴛʀᴏ-ᴍᴅ 🦹🏻‍♂️*"
 },
     
 "IMG_URL" :{
