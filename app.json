@@ -1,6 +1,6 @@
 {
-    "name": "VIHANA MD",
-    "description": "whatsapp md bot build with nodejs",
+    "name": "ASTRO MD",
+    "description": "whatsapp md bot build with nodejs.By vihanga-yt",
     "repository": "https://github.com/vihangayt0/AstroBot-MD",
     "logo": "https://telegra.ph/file/b8e8a0b9a9e4d8ab0fed0.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
@@ -68,7 +68,7 @@
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
-  "value" : "*IM ALIVE NOW*"
+  "value" : "*Hello Im Alive Now*"
     },
         
 "CALL_BLOCK" :{
@@ -122,13 +122,13 @@
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "ＡＳＴＲＯ-ＭＤ"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "*Vihanga-YT*"
     },
       
 "GROUP_LINK" :{
@@ -146,13 +146,13 @@
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "STICKER BY Astro MD"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ᴀꜱᴛʀᴏ-ᴍᴅ*"
 },
     
 "IMG_URL" :{
